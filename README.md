@@ -35,3 +35,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 (.venv) ➜  celery-flower git:(master) ✗ flower -A task beat # beat 是因为设置了定时任务，需要做心跳
 ```
 
+**Flower Dashboard**
+
+默认是访问 http://localhost:5555/
+
